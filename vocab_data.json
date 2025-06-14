@@ -1,0 +1,720 @@
+[
+  {
+    "unit": "Unit 1: Nice to Meet You!",
+    "category": "Countries",
+    "items": [
+      "Argentina",
+      "Australia",
+      "Brazil",
+      "Britain",
+      "Canada",
+      "Egypt",
+      "Iceland",
+      "Indonesia",
+      "Italy",
+      "Japan",
+      "Mexico",
+      "Morocco",
+      "Spain",
+      "Sweden",
+      "Turkey"
+    ]
+  },
+  {
+    "unit": "Unit 1: Nice to Meet You!",
+    "category": "Numbers 0–10",
+    "items": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "unit": "Unit 1: Nice to Meet You!",
+    "category": "Jobs",
+    "items": [
+      "an architect",
+      "a computer programmer",
+      "a designer",
+      "a doctor",
+      "an engineer",
+      "a manager",
+      "a student",
+      "a teacher",
+      "an actor",
+      "a builder",
+      "a chef",
+      "a musician",
+      "a photographer",
+      "a police officer",
+      "a receptionist",
+      "a sales person",
+      "a soccer player",
+      "a writer"
+    ]
+  },
+  {
+    "unit": "Unit 2: Our Music, Our World",
+    "category": "Languages and Nationalities",
+    "items": [
+      "Spanish",
+      "Portuguese",
+      "Icelandic",
+      "Swedish",
+      "Norwegian",
+      "Japanese",
+      "Brazilian",
+      "Irish",
+      "Algerian",
+      "Chilean",
+      "Danish",
+      "Italian",
+      "Lebanese",
+      "Moroccan",
+      "Russian",
+      "Scottish",
+      "Venezuelan",
+      "Vietnamese"
+    ]
+  },
+  {
+    "unit": "Unit 2: Our Music, Our World",
+    "category": "Days of the Week",
+    "items": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "unit": "Unit 2: Our Music, Our World",
+    "category": "Numbers 11–100",
+    "items": [
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20",
+      "30",
+      "40",
+      "50",
+      "60",
+      "70",
+      "80",
+      "90",
+      "100"
+    ]
+  },
+  {
+    "unit": "Unit 3: My Life",
+    "category": "Objects",
+    "items": [
+      "a hat",
+      "a phone",
+      "a sweatshirt",
+      "an umbrella",
+      "a bag",
+      "a coat",
+      "glasses",
+      "headphones"
+    ]
+  },
+  {
+    "unit": "Unit 3: My Life",
+    "category": "Colors",
+    "items": [
+      "black",
+      "blue",
+      "brown",
+      "green",
+      "gray",
+      "red",
+      "white",
+      "yellow"
+    ]
+  },
+  {
+    "unit": "Unit 3: My Life",
+    "category": "Family",
+    "items": [
+      "mother",
+      "father",
+      "parents",
+      "brother",
+      "sister",
+      "husband",
+      "wife",
+      "children",
+      "son",
+      "daughter",
+      "grandfather",
+      "grandmother",
+      "grandson",
+      "granddaughter",
+      "grandchildren"
+    ]
+  },
+  {
+    "unit": "Unit 4: Time",
+    "category": "Daily Activities",
+    "items": [
+      "get up",
+      "have breakfast",
+      "go to work/school",
+      "start work/classes",
+      "have lunch",
+      "finish work/classes",
+      "go home",
+      "have dinner",
+      "watch TV/a movie",
+      "read a book",
+      "talk to friends/family",
+      "go to bed"
+    ]
+  },
+  {
+    "unit": "Unit 4: Time",
+    "category": "Time Expressions",
+    "items": [
+      "o’clock",
+      "ten",
+      "thirty",
+      "fifteen",
+      "one",
+      "twelve"
+    ]
+  },
+  {
+    "unit": "Unit 4: Time",
+    "category": "Months",
+    "items": [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ]
+  },
+  {
+    "unit": "Unit 4: Time",
+    "category": "Seasons",
+    "items": [
+      "fall",
+      "spring",
+      "summer",
+      "winter"
+    ]
+  },
+  {
+    "unit": "Unit 5: Time for a Break",
+    "category": "Free-time Activities",
+    "items": [
+      "cook a meal",
+      "go for a walk",
+      "go running",
+      "go shopping",
+      "go to the gym",
+      "play chess",
+      "sit in the backyard",
+      "take a bath"
+    ]
+  },
+  {
+    "unit": "Unit 5: Time for a Break",
+    "category": "Food and Meals",
+    "items": [
+      "apples",
+      "beans",
+      "bread",
+      "cereal",
+      "cheese",
+      "chicken",
+      "eggs",
+      "fish",
+      "noodles",
+      "pasta",
+      "potatoes",
+      "rice",
+      "banana",
+      "pear",
+      "orange",
+      "grapes",
+      "tomato",
+      "broccoli",
+      "cucumber",
+      "onion",
+      "tea",
+      "milk",
+      "juice",
+      "water",
+      "chocolate chips",
+      "peanuts",
+      "cookies"
+    ]
+  },
+  {
+    "unit": "Unit 6: A Place to Live",
+    "category": "Places in a Town",
+    "items": [
+      "an art gallery",
+      "a café",
+      "a hotel",
+      "a market",
+      "a museum",
+      "a park",
+      "a restaurant",
+      "a store",
+      "a station",
+      "a theater"
+    ]
+  },
+  {
+    "unit": "Unit 6: A Place to Live",
+    "category": "Furniture and Rooms",
+    "items": [
+      "bed",
+      "bookshelf",
+      "chair",
+      "clock",
+      "closet",
+      "cushion",
+      "desk",
+      "lamp",
+      "wall",
+      "window",
+      "coffee table",
+      "couch",
+      "fridge",
+      "mirror",
+      "oven",
+      "rug",
+      "shower",
+      "toilet",
+      "bathroom",
+      "kitchen",
+      "living room"
+    ]
+  },
+  {
+    "unit": "Unit 6: A Place to Live",
+    "category": "Prepositions of Place",
+    "items": [
+      "in",
+      "on",
+      "under"
+    ]
+  },
+  {
+    "unit": "Unit 7: Skills",
+    "category": "Abilities",
+    "items": [
+      "cook",
+      "dance",
+      "draw",
+      "juggle",
+      "sing",
+      "ski",
+      "climb a mountain",
+      "drive a car",
+      "play the piano",
+      "ride a motorcycle",
+      "speak Spanish",
+      "swim",
+      "ride a bicycle",
+      "make a cake",
+      "speak Chinese",
+      "make an omelette",
+      "play tennis",
+      "ride a horse",
+      "play soccer"
+    ]
+  },
+  {
+    "unit": "Unit 7: Skills",
+    "category": "Adjectives",
+    "items": [
+      "amazing",
+      "awful",
+      "bad",
+      "boring",
+      "difficult",
+      "easy",
+      "great",
+      "healthy",
+      "interesting",
+      "OK",
+      "talented",
+      "terrible",
+      "young"
+    ]
+  },
+  {
+    "unit": "Unit 8: The Here and Now",
+    "category": "Verb Phrases",
+    "items": [
+      "go to the bank",
+      "go out",
+      "go to the library",
+      "go shopping",
+      "have a good time",
+      "have lunch",
+      "have a meeting",
+      "have coffee",
+      "look at a picture",
+      "look in the mirror",
+      "look at your phone",
+      "look at someone",
+      "look at clothes in a store",
+      "meet a friend",
+      "meet someone at a party",
+      "meet at the bus station",
+      "meet at nine o’clock",
+      "read a book",
+      "read a message",
+      "read a magazine",
+      "read the newspaper",
+      "take a break",
+      "take a photo",
+      "take a taxi",
+      "take a selfie",
+      "talk to a friend",
+      "talk to a teacher",
+      "talk on the phone",
+      "talk about something",
+      "watch a movie",
+      "watch TV",
+      "watch a soccer game",
+      "watch someone do something"
+    ]
+  },
+  {
+    "unit": "Unit 8: The Here and Now",
+    "category": "Clothes",
+    "items": [
+      "cap",
+      "coat",
+      "dress",
+      "hat",
+      "jacket",
+      "jeans",
+      "pants",
+      "shirt",
+      "shoes",
+      "shorts",
+      "skirt",
+      "sneakers",
+      "socks",
+      "suit",
+      "sweater",
+      "T-shirt"
+    ]
+  },
+  {
+    "unit": "Unit 9: Looking Back",
+    "category": "Dates and Years",
+    "items": [
+      "1st",
+      "2nd",
+      "3rd",
+      "4th",
+      "5th",
+      "6th",
+      "1948",
+      "1958",
+      "1909",
+      "1999",
+      "2014",
+      "2040",
+      "1564",
+      "1546",
+      "2002",
+      "2012",
+      "1800",
+      "1900"
+    ]
+  },
+  {
+    "unit": "Unit 9: Looking Back",
+    "category": "Everyday Verbs",
+    "items": [
+      "collect",
+      "design",
+      "help",
+      "live",
+      "paint",
+      "plant",
+      "receive",
+      "remember",
+      "start",
+      "study",
+      "talk",
+      "travel",
+      "try",
+      "use"
+    ]
+  },
+  {
+    "unit": "Unit 10: It’s History",
+    "category": "Irregular Verbs",
+    "items": [
+      "be",
+      "begin",
+      "break",
+      "bring",
+      "build",
+      "buy",
+      "can",
+      "catch",
+      "choose",
+      "come",
+      "cost",
+      "cut",
+      "do",
+      "drink",
+      "drive",
+      "eat",
+      "fall",
+      "feel",
+      "find",
+      "forget",
+      "get",
+      "give",
+      "go",
+      "grow",
+      "have",
+      "hear",
+      "hit",
+      "hold",
+      "hurt",
+      "keep",
+      "know",
+      "leave",
+      "lend",
+      "let",
+      "lose",
+      "make",
+      "mean",
+      "meet",
+      "must",
+      "pay",
+      "put",
+      "read",
+      "run",
+      "say",
+      "see",
+      "sell",
+      "set",
+      "shut",
+      "sing",
+      "sit",
+      "sleep",
+      "speak",
+      "spell",
+      "spend",
+      "stand",
+      "steal",
+      "take",
+      "teach",
+      "tell",
+      "think",
+      "throw",
+      "understand",
+      "wear",
+      "win",
+      "write"
+    ]
+  },
+  {
+    "unit": "Unit 10: It’s History",
+    "category": "Time Phrases",
+    "items": [
+      "a hundred years ago",
+      "a long time ago",
+      "an hour ago",
+      "in the 12th century",
+      "in the 15th century",
+      "in the past",
+      "last Friday",
+      "last month",
+      "last week",
+      "last year",
+      "fifty years ago"
+    ]
+  },
+  {
+    "unit": "Unit 10: It’s History",
+    "category": "Life Events",
+    "items": [
+      "belong to someone",
+      "drive a car",
+      "finish college",
+      "get married",
+      "meet a person",
+      "pass a test",
+      "win a prize",
+      "write a story"
+    ]
+  },
+  {
+    "unit": "Unit 11: Having Fun",
+    "category": "Recreational Activities",
+    "items": [
+      "chat with people",
+      "cook a nice meal",
+      "go to a café",
+      "go to a concert",
+      "go to a museum",
+      "go to a restaurant",
+      "go to a soccer game",
+      "go to the movie theater",
+      "go to the park",
+      "go to the gym",
+      "get takeout food",
+      "listen to music",
+      "play soccer",
+      "play computer games",
+      "play chess",
+      "read a book",
+      "relax",
+      "spend time with family",
+      "spend time with friends",
+      "stay at home",
+      "watch a movie",
+      "watch TV",
+      "watch videos on laptop",
+      "watch soccer on TV"
+    ]
+  },
+  {
+    "unit": "Unit 11: Having Fun",
+    "category": "Entertainment",
+    "items": [
+      "actor",
+      "movie stars",
+      "player",
+      "pop stars",
+      "singer",
+      "concerts",
+      "games",
+      "premiere",
+      "movie theater",
+      "stadium",
+      "classical",
+      "jazz",
+      "pop",
+      "rock",
+      "baseball",
+      "basketball",
+      "football",
+      "soccer",
+      "tennis",
+      "action",
+      "comedy",
+      "horror",
+      "sci-fi"
+    ]
+  },
+  {
+    "unit": "Unit 12: Going Away",
+    "category": "Modes of Transport",
+    "items": [
+      "by bike",
+      "by bus",
+      "by car",
+      "by plane",
+      "by taxi",
+      "by train",
+      "by trolley",
+      "on foot"
+    ]
+  },
+  {
+    "unit": "Unit 12: Going Away",
+    "category": "Types of Vacations",
+    "items": [
+      "a beach vacation",
+      "a camping vacation",
+      "a sightseeing vacation",
+      "a skiing vacation"
+    ]
+  },
+  {
+    "unit": "Unit 12: Going Away",
+    "category": "Places to Stay",
+    "items": [
+      "a chalet",
+      "a tent",
+      "a hotel"
+    ]
+  },
+  {
+    "unit": "Unit 12: Going Away",
+    "category": "Related Items",
+    "items": [
+      "a camera",
+      "a guidebook",
+      "skiing goggles",
+      "skis",
+      "a snorkel",
+      "a stove",
+      "sunglasses"
+    ]
+  },
+  {
+    "unit": "Unit 12: Going Away",
+    "category": "Countable Nouns",
+    "items": [
+      "bag",
+      "card",
+      "dollar",
+      "hour",
+      "passport",
+      "ticket",
+      "train",
+      "bottles",
+      "cars",
+      "exercises",
+      "sandwiches",
+      "songs"
+    ]
+  },
+  {
+    "unit": "Unit 12: Going Away",
+    "category": "Uncountable Nouns",
+    "items": [
+      "cash",
+      "food",
+      "information",
+      "luggage",
+      "money",
+      "music",
+      "traffic",
+      "water",
+      "time"
+    ]
+  }
+]
