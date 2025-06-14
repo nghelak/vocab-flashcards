@@ -66,11 +66,9 @@ function showCard() {
 
 function speak(text) {
   const utterance = new SpeechSynthesisUtterance(text);
-  utterance.lang = 'en-US'; // or 'en-GB' for British accent
+  utterance.lang = 'en-US';
   speechSynthesis.speak(utterance);
 }
-
-
 
 document.getElementById("nextBtn").addEventListener("click", () => {
   if (currentItems.length === 0) return;
