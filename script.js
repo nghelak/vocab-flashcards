@@ -57,8 +57,20 @@ function startFlashcards() {
 
 function showCard() {
   const card = document.getElementById("flashcard");
-  card.textContent = currentItems[currentIndex];
+  const word = currentItems[currentIndex];
+  card.innerHTML = `
+    <div>${word}</div>
+    <button onclick="speak('${word}')">🔊 Listen</button>
+  `;
 }
+
+function speak(text) {
+  const utterance = new SpeechSynthesisUtterance(text);
+  utterance.lang = 'en-US'; // or 'en-GB' for British accent
+  speechSynthesis.speak(utterance);
+}
+
+
 
 document.getElementById("nextBtn").addEventListener("click", () => {
   if (currentItems.length === 0) return;
